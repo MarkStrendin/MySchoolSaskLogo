@@ -15,3 +15,11 @@ All image files in this repository were created by me.
 * The green colour is `#006B35`
 * The yellow colour is `#FFE938`
 * The white-gray line between green and yellow is white `#FFFFFF` or very light grey `#D9E2DC` (possibly grey due to image compression)
+
+# Versions
+
+## Small Rectangle
+<img src="/SmallRectangle/MSS-SmallRectangle.svg" width=300>
+
+## Square 
+<img src="/Square/MSS-Square.svg" width=300>
