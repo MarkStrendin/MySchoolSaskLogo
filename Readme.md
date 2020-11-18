@@ -14,4 +14,4 @@ All image files in this repository were created by me.
 * The font style is often bold
 * The green colour is `#006B35`
 * The yellow colour is `#FFE938`
-* The white-gray line between green and yellow is `#D9E2DC`
+* The white-gray line between green and yellow is white `#FFFFFF` or very light grey `#D9E2DC` (possibly grey due to image compression)
